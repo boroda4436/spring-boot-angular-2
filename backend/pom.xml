@@ -33,6 +33,11 @@
 		</dependency>
 
 		<dependency>
+			<groupId>org.projectlombok</groupId>
+			<artifactId>lombok</artifactId>
+		</dependency>
+
+		<dependency>
 			<groupId>com.example</groupId>
 			<artifactId>frontend</artifactId>
 			<version>${project.version}</version>
