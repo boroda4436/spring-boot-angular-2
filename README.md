@@ -1,6 +1,7 @@
 # spring-boot-angular-2
 Spring boot web app with Angular 2 based front-end
 
+
 1. mvn clean install
 2. java -jar backend\target\ng2boot-backend.jar
 3. open http://localhost:8080 in your browser
